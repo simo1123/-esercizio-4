@@ -1,0 +1,47 @@
+nav{
+    background: #ff0000;
+    height: 70px;
+    width: 100%;
+
+}
+nav ul{
+    float: right;
+    margin-right: 100px;
+    }
+nav ul li {
+    display: inline-block;
+    list-style: none;
+    line-height: 40px;
+    margin: 0 5px;
+    
+
+    }
+nav ul li a{
+    text-decoration: none ;
+    color: #000;
+      
+}
+body{
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+
+}
+.foto{
+    background: #464646;
+    text-align: center;
+}
+h1{text-align: center;
+
+}
+.card-btn{
+    padding: 10px 5px;
+    border-radius: 20px;
+    text-align: center;
+    width: 150px;
+    background-color: #000;
+    color: white;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;}
